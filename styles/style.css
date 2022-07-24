@@ -2,6 +2,10 @@ ul li {
     list-style: none;
 }
 
+.start-80 {
+    left: 80%;
+}
+
 footer img {
     width: 150px;
     height: 100px;
